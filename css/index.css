@@ -350,3 +350,16 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+h1 {
+  cursor: pointer;
+}
+h2 {
+  cursor: pointer;
+}
+.welcomePar {
+  cursor: pointer;
+}
+.change {
+  visibility: hidden;
+  background-color: black;
+}
